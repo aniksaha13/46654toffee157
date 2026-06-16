@@ -1,4 +1,6 @@
 #EXTINF:-1 group-title="Sports Channels" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/3d236992-47e5-45b5-96a9-266ca57bf99f.png", FIFA-2026 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=\"Expires=1781341186~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3fQMqlB-GObuMVMiVVv0gadiTaYBKRzUeZg3jtsIEvJiGo2f9w2uvbUW7McTIxixqRtWYzpJDSYCFhO4Tw17yEJ\""}
-https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781541786~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3eB0NVnF0OJkLA0hu0W9FGgKwL5C6rWWudB7WF2MEOxwhJgg_oKBROCqepglgOjz-5sqDLEI2rcs977z6dEVsgF"
+#EXTHTTP:{"cookie=Edge-Cache-Cookie="Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O"""}
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/oDRWpp4Bb1O6C9k7We2Q/posters/3d236992-47e5-45b5-96a9-266ca57bf99f.png", zeebangla 
+https://mflixott.com/tv/toffee-by-maruf/live.php?cid=zee_bangla&chunks=06419077e197e0f3d844a0d30c17877aabd5c2c0a420df98e23e25d6dd1927b1f47afae6f760d6fa928f9fd017fbd46004d3c171c80e1b52897cb6bdcd717181d9cdaea5df46a5906e380491c3049d263ccfdf2592f1bec5756110bbc6280c1d
